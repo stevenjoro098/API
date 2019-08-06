@@ -1,0 +1,8 @@
+Collecting freeze
+  Downloading https://files.pythonhosted.org/packages/c2/16/ca9fcd75d8c958b2260d521f18d7e697de5d2133fc68fc968feef4a348b6/freeze-1.0.10.tar.gz
+Requirement already satisfied: six in c:\users\da vinci\appdata\local\programs\python\python37-32\lib\site-packages (from freeze) (1.12.0)
+Installing collected packages: freeze
+  Running setup.py install for freeze: started
+    Running setup.py install for freeze: finished with status 'done'
+Successfully installed freeze-1.0.10
+
